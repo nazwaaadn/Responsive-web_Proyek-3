@@ -207,8 +207,6 @@ ul.timeline li p {
 
     /* Responsive */
     @media (max-width: 600px) {
-      
-
       .gallery img {
         height: 230px;
       }
